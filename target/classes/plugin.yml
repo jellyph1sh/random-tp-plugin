@@ -1,0 +1,8 @@
+name: randomtp
+version: "1.0-SNAPSHOT"
+author: JellyPhish
+main: fr.dpocean.randomtp.RandomTP
+commands:
+  rtp:
+    description: Randomly teleports a player to a random location
+    usage: /<command>
